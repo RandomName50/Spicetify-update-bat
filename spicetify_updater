@@ -1,0 +1,4 @@
+echo off
+spicetify upgrade
+spicetify restore backup apply
+spicetify config extensions extension#1|extension#2|extension#3
